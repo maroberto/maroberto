@@ -32,7 +32,7 @@
   
 <div>
 <a href = "mailto:maroberto13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href = "linkedin.com/in/marcos-roberto-moreira-4186111b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo =linkedin&logoColor=white" target="_blank"></a>  
+<a href = "https://www.linkedin.com/in/marcos-roberto-moreira-4186111b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo =linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://ubuntu.com/download"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>  
 <a href = "https://developer.apple.com/"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"_blank"></a>
 <a href = "https://developer.android.com/studio?hl=pt&gclsrc=ds&gclsrc=ds"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the badge&logo=android&logoColor=white" target="_blank"></a>  
